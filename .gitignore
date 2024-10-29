@@ -39,4 +39,4 @@ yarn-error.*
 
 expo-env.d.ts
 # @end expo-cli
-.nprmc
+.npmrc
